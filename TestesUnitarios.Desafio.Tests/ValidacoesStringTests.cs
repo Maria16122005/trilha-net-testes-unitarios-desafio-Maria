@@ -21,6 +21,7 @@ public class ValidacoesStringTests
     }
 
     [Fact]
+    
     public void DeveContemAPalavraQualquerNoTexto()
     {
         
